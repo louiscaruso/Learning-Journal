@@ -34,4 +34,4 @@ In the words of John Kavanagh:
 - [x] Homework
 - [ ] School work
 
-[](https://louiscaruso.github.io/Learning-Journal/)
+[https://louiscaruso.github.io/Learning-Journal/](https://louiscaruso.github.io/Learning-Journal/)
