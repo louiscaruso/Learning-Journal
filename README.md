@@ -22,6 +22,10 @@ Hi! I'm Louis, and I'd like to learn code! I served in the United States Marine 
    - sublist
    - but more
 + item one
-+ item three
++  item three
++ **Bold**
++ *Italic*
+
+
 
 (https://louiscaruso.github.io/Learning-Journal/)
