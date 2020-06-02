@@ -3,7 +3,8 @@
 Hi! I'm Louis, and I'd like to learn code! I served in the United States Marine Corps. for 5 years as an infantrymen so there not to much tech where I worked. 
 
 ## Growth Mindset
-> Growth mindset is that we win or learn, the journey of failing and learning from thoses failures  
+In the words of John Kavanagh:
+> Win or Learn
 
 ### Keeping myself in a growth mindset
 1. learn from feedback
@@ -23,9 +24,11 @@ Hi! I'm Louis, and I'd like to learn code! I served in the United States Marine 
    - but more
 + item one
 +  item three
+
+### Text Styles
 + **Bold**
 + *Italic*
-
++ ~Oops made a mistake!~
 
 
 (https://louiscaruso.github.io/Learning-Journal/)
