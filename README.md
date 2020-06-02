@@ -2,7 +2,7 @@
 
 Hi! Im louis, and Id like to learn code
 
-##Growth Mindset
+## Growth Mindset
 > Growth mindset is that win or learn 
 
 ### Keeping myself in a growth mindset
