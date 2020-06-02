@@ -9,7 +9,7 @@ In the words of John Kavanagh:
 ### Keeping myself in a growth mindset
 1. learn from feedback
 1. Stay curious! This will keep you in the always learning attuitude.  
-1. Complete mastery will take years and years but to celebrate the little sucesses are importiant to keep on track.
+1. Complete mastery will take years and years but to celebrate the little successes are importiant to keep on track.
 
 ## Markdown Note
 > MarkDown is a light weight markup language for authorizing readable, fuctional code on the fly
@@ -30,5 +30,8 @@ In the words of John Kavanagh:
 + *Italic*
 + ~Oops made a mistake!~
 
+### Things to do :+1:
+- [x] Homework
+- [ ] School work
 
 (https://louiscaruso.github.io/Learning-Journal/)
