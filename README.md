@@ -33,4 +33,4 @@ In the words of John Kavanagh:
 - [x] Homework
 - [ ] School work
 
-[Here's where to find me!](https://louiscaruso.github.io/Learning-Journal/):thumbsup:
+[Here's where to find me!](https://louiscaruso.github.io/Learning-Journal/) :+1:
