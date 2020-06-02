@@ -30,7 +30,7 @@ In the words of John Kavanagh:
 + ~~Oops made a mistake!~~
 
 ### Things to do 
-:+1:
+:thumbsup:
 - [x] Homework
 - [ ] School work
 
