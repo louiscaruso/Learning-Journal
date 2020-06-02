@@ -1,2 +1,1 @@
-# Learning-Journal
-louis caruso learning journal
+# Louis caruso's learning journal
