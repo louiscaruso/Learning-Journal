@@ -14,3 +14,5 @@ Hi! Im louis, and I'd like to learn code
 > MarkDown is a light weight markup language 
 - `#` is a level one heading 
 - `###` is a level three heading
+
+https://louiscaruso.github.io/Learning-Journal/
