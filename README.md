@@ -30,8 +30,7 @@ In the words of John Kavanagh:
 + ~~Oops made a mistake!~~
 
 ### Things to do 
-:thumbsup:
 - [x] Homework
 - [ ] School work
 
-[Here's where to find me!](https://louiscaruso.github.io/Learning-Journal/)
+[Here's where to find me!](https://louiscaruso.github.io/Learning-Journal/):thumbsup:
