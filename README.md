@@ -27,11 +27,11 @@ In the words of John Kavanagh:
 ### Text Styles
 + **Bold**
 + *Italic*
-+ ~Oops made a mistake!~
++ ~~Oops made a mistake!~~
 
 ### Things to do 
 :+1:
 - [x] Homework
 - [ ] School work
 
-(https://louiscaruso.github.io/Learning-Journal/)
+[(https://louiscaruso.github.io/Learning-Journal/)]
