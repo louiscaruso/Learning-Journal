@@ -1,6 +1,6 @@
-#### My class notes
+# My class notes
 
-## choosing a text editor
+## Choosing a text editor
 - mostly comes down to personal preference
 - pick something that you are comfortable with
 
@@ -14,7 +14,7 @@
 - there are third party ones as well
 
 ## Command line
-- what is it?
+### What is it?
   - it is a text based interface
   - entering commands via the keyboard
   
