@@ -15,4 +15,5 @@
 
 ## Command line
 - what is it
-  -it is a text based interface
+  - it is a text based interface
+  - entering commands via the keyboard and 
