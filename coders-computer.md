@@ -6,7 +6,7 @@
 
 ## What is a text editor
 - It's downloadable software on your computer
-- Look for :eyes:
+- Look for
     - Code completion
     - Syntax highlighting
     - Selection from different themes
