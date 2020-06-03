@@ -1,4 +1,4 @@
-### My class notes
+#### My class notes
 
 ## choosing a text editor
 - mostly comes down to personal preference
