@@ -16,4 +16,8 @@
 ## Command line
 - what is it?
   - it is a text based interface
-  - entering commands via the keyboard and 
+  - entering commands via the keyboard
+  
+  ## How to open a terminal
+  - Windows needs SSH client
+  - Mac users can look for the program **Terminal** under **Applications**
