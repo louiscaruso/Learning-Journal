@@ -14,6 +14,6 @@
 - there are third party ones as well
 
 ## Command line
-- what is it
+- what is it?
   - it is a text based interface
   - entering commands via the keyboard and 
