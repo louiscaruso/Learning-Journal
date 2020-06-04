@@ -9,6 +9,10 @@
     - An data base that hard disk stores changes to files
 - Centralized Version Control (CVSC)
     - Streamedline the collaboration 
-    - Eliminated the need to invole locate databases
+    - Eliminated the need to invole local databases
 - Distributed Version Control (DVCS)
     - Addresses the major issues of (CVS)
+    - DVCS allows clients to mirror repositories so everything is backed up
+
+    ## Whats a Git?
+    - Snapshots
