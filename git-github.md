@@ -14,5 +14,16 @@
     - Addresses the major issues of (CVS)
     - DVCS allows clients to mirror repositories so everything is backed up
 
-    ## Whats a Git?
+    ## What's a Git?
     - Snapshots
+        - Git is DVCS that stores data in a file system made up of snapshots
+        - Each time you commit a snapshot is created and reference is stored
+    - Local Operations
+         - Git mostly relies on local operations because most information can be found in local resources
+         - Speeds up the process by eliminating the need to fetch history info from servers
+- Tracking Changes is a feature as well and every single change applied is tracked
+- Loss of data is greatly minimize
+- States 
+    - Files in Git reside as three states: committed, modified and staged
+
+
