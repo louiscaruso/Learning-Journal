@@ -2,13 +2,13 @@
 ![git](https://miro.medium.com/max/3200/1*OY34A4uBsawmGoqpBV3UaA.png)
 ## Things to know
 - Version Control (VSC)
-    - VSC is a control system that allow you to revisit different versions of a file
+    - VSC is a control system that allows you to revisit different versions of a file
     - You can revert files and track changes
     - Mistakes are easy to fix
 - Local Version Control
-    - A data base that hard disk stores changes to files
+    - A database that hard disk stores changes to files
 - Centralized Version Control (CVSC)
-    - Streameline the collaboration 
+    - Streamline the collaboration 
     - Eliminated the need to involve local databases
 - Distributed Version Control (DVCS)
     - Addresses the major issues of (CVS)
