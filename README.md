@@ -10,3 +10,5 @@
 - [Markdown Notes](markdown-notes.md)
 - [Coders Computer](coders-computer.md)
 - [Git and Github](git-github.md)
+- [HTML Notes](html-notes.md)
+- [CSS Notes](css-notes.md)
