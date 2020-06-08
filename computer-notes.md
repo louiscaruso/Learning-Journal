@@ -1,8 +1,8 @@
-# What Makes a Computer a Computer?
+# How Computers work
 - input, store info, process, output
 
 
-## 4 Common Things of a Computer
+## Different parts
 - Input
 - Store
 - Process
@@ -24,7 +24,7 @@
 
 
 ## Storage and Processing
-> Input is processed through memory then changes it with an algorithm (a series of commands) and sends info out
+- Input is processed through memory then changes it with an algorithm (a series of commands) and sends info out
 output
 text, photos, vids, games, vr, robot
 
@@ -58,8 +58,6 @@ text, photos, vids, games, vr, robot
         - 0+1=01    (these are in binary)
         - 1+1+10 (2)
 - Put circuits togther side by side to add together much larger numbers
-
-## How Computers Work
 - Input converts physical input to binary info from the outside world and converts it into binary info. There's memory to store this info, there's a central processing unit(CPU) and there are output devics that take the info and convert it into physical output.
 Input is sent as binary. The CPU calculates how to display the content and requests instruction from memory. The memory tells the CPU how to display with pixels from memory. Finally, the pixelated information is sent in binary to the output. 
 
