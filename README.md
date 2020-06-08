@@ -12,3 +12,4 @@
 - [Git and Github](git-github.md)
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
+- [JavaScript notes](js-notes.md)
