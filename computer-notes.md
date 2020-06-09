@@ -1,8 +1,5 @@
 # How Computers work
-- input, store info, process, output
 
-
-## Different parts
 - Input
 - Store
 - Process
