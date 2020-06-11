@@ -14,3 +14,4 @@
 - [CSS Notes](css-notes.md)
 - [JavaScript notes](js-notes.md)
 - [Programing With Javascript](programing-with-js.md)
+- [Loop Notes](loop-note.md)
